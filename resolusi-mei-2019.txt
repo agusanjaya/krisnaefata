@@ -1,5 +1,5 @@
 - Membuat Webite Sekolah Krisna Efata
-  a. Mendesain tampilan home
+  a. Mendesain tampilan home : SELESAI :
   b. Mendesain menu-menu yang ada di web
   c. mendesain tampilan halaman menu-menu
 
